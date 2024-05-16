@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.API", "Shared.API\Shared.API.csproj", "{18AA2156-2302-4825-92D1-A399492E2D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Common", "Shared.common\Shared.Common.csproj", "{9935A4DB-C4D5-46A4-9B64-AEBB8E41AABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AA2156-2302-4825-92D1-A399492E2D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AA2156-2302-4825-92D1-A399492E2D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AA2156-2302-4825-92D1-A399492E2D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AA2156-2302-4825-92D1-A399492E2D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9935A4DB-C4D5-46A4-9B64-AEBB8E41AABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9935A4DB-C4D5-46A4-9B64-AEBB8E41AABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9935A4DB-C4D5-46A4-9B64-AEBB8E41AABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9935A4DB-C4D5-46A4-9B64-AEBB8E41AABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFB147B-5EFF-4B1F-8C17-682D6940C7A4}
+	EndGlobalSection
+EndGlobal
